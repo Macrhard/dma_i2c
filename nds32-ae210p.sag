@@ -1,0 +1,15 @@
+USER_SECTIONS aaaaa
+EILM 0x00000000 0x00080000 ; address base 0x00000000, max_size=512K
+{
+	EXEC 0x00000000
+	{
+		* (+ISR,+RO)}
+	EDLM 0x00200000 0x00080000
+	{
+		LOADADDR NEXT __data_lmastart
+		ADDR NEXT __data_start
+		* (+RW,+ZI)
+
+		ADDR __data_end		STACK = 0x00280000
+	}
+}

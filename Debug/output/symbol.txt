@@ -1,0 +1,249 @@
+00000000 A EILM_BEGIN
+00000000 A NDS_SAG_LMA_EILM
+00000000 W _ITB_BASE_
+00000000 W _RELAX_END_	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:49
+00000000 t exception_vector	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:49
+000000a4 t exception_handler	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:95
+000000a4 t exception_vector_end	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:95
+000000b0 t ISR_TABLE	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:95
+00000130 t OS_Trap_PTE_Not_Present	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:163
+00000130 t OS_Trap_TLB_Fill	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:163
+00000130 t OS_Trap_TLB_Misc	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:163
+00000130 t OS_Trap_TLB_VLPT_Miss	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:163
+0000016a t OS_Trap_Machine_Error	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:169
+000001a6 t OS_Trap_Debug_Related	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:175
+000001e2 t OS_Trap_General_Exception	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:181
+0000021e t OS_Trap_Syscall	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:187
+0000027c t common_ISR_wrapper	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:193
+000002e6 t OS_Trap_Interrupt_UNDEF	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:201
+000002f0 t OS_Trap_Interrupt_HW2	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:207
+000002f8 t OS_Trap_Interrupt_HW6	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:208
+00000300 t OS_Trap_Interrupt_HW11	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:209
+00000308 t OS_Trap_Interrupt_HW9	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:210
+00000310 T _start	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:226
+00000320 A EDLM_SIZE
+00000334 t _i	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:230
+0000034a t _d	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:239
+00000360 t _finish	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../crt0.S:251
+00000370 t Default_Handler	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:119
+00000370 W HW0_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW10_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW11_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW12_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW13_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW14_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW15_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW16_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW17_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW18_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW19_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW1_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW20_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW21_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW22_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW23_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW24_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW25_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW26_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW27_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW28_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW29_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW2_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW30_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW31_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW3_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW4_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW5_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW6_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW7_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW8_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W HW9_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W SW0_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP0_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP10_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP11_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP12_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP13_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP14_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP15_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP16_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP17_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP18_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP19_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP1_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP20_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP21_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP22_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP23_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP24_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP25_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP26_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP27_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP28_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP29_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP2_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP30_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP31_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP32_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP33_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP34_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP35_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP36_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP37_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP38_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP39_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP3_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP40_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP41_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP42_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP43_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP44_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP45_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP46_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP47_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP48_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP49_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP4_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP50_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP51_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP52_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP53_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP54_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP55_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP56_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP57_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP58_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP59_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP5_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP60_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP61_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP62_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP63_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP6_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP7_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP8_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W VEP9_ISR	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W error_exception_handler	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W syscall_handler	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+00000370 W tlb_exception_handler	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:120
+0000037c T __null_function	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:128
+0000037e T __c_init	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:132
+000003b8 T __cpu_init	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:163
+0000042a T __init	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:417
+0000043a T _nds32_init_mem	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-dlm.c:26
+0000044c T __soc_init	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-dlm.c:43
+00000458 T delay	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../main.c:26
+00000478 T main	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../main.c:33
+0000048c t L1	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../strcmp.S:14
+0000048c T strcmp	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../strcmp.S:14
+000004a8 T gpio_init	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../utils.c:27
+000004c4 T gpio_set_led	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../utils.c:33
+00000502 T gpio_set_led1	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../utils.c:40
+00000544 T gpio_set_led2	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../utils.c:48
+00000582 T gpio_set_led3	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../utils.c:56
+00000642 T uart_init	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../utils.c:69
+0000068c T putchar	/cygdrive/d/Andestech/AndeSight300STD/toolchains/nds32le-elf-mculib-v3/nds32le-elf/include/stdio.h:212
+000006e8 T nds_write	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../utils.c:106
+0000071a T _fstat	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../utils.c:116
+00000726 T _write	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../utils.c:123
+0000075c T my_malloc	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../utils.c:132
+000007ac T scanf	/cygdrive/d/Andestech/AndeSight300STD/toolchains/nds32le-elf-mculib-v3/nds32le-elf/include/stdio.h:194
+000007d8 T get_time_from_timer	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../utils.c:178
+00000950 T get_time_from_pfm	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../utils.c:234
+000009c6 T time	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../utils.c:258
+00000a1a T __sflush_r
+00000b40 T _fflush_r
+00000b64 T fflush
+00000b80 t __fp_lock
+00000b84 t __fp_unlock
+00000b88 T _cleanup_r
+00000b94 T __sfmoreglue
+00000bc4 T _cleanup
+00000bce T __sinit
+00000ca2 T __sfp
+00000d18 T __sfp_lock_acquire
+00000d1a T __sfp_lock_release
+00000d1c T __sinit_lock_acquire
+00000d1e T __sinit_lock_release
+00000d20 T __fp_lock_all
+00000d2e T __fp_unlock_all
+00000d3c T _fwalk
+00000d78 T _fwalk_reent
+00000db8 T memcpy
+00000de4 T memset
+00000e14 T _free_r
+00000e88 T _malloc_r
+00000f2e T printf
+00000f4a T puts
+00000f9a T _sbrk_r
+00000fb6 T __sread
+00000fda T __seofread
+00000fde T __swrite
+00001014 T __sseek
+0000103a T __sclose
+00001046 t vprintf_help
+0000107a T vprintf
+000010c6 T _write_r
+000010e6 T _close_r
+00001104 T do_printf
+000015ac T _fclose_r
+00001632 T fclose
+00001640 T _lseek_r
+00001660 t sep_frac
+00001692 T _printf_float
+00001d64 T _read_r
+00001d84 T strcpy
+00001d98 T strlen
+00001da4 T abs
+00001dac T _close
+00001dc4 T _read
+00001ddc T _lseek
+00001df4 T _sbrk
+00001e24 T __lshrdi3	/home/sqa/build-ast300/build-toolchain/build-2017-03-15/source-packages/gcc-4.9.3-bsp-v4_1_0-branch/libgcc/libgcc2.c:403
+00001e4c T __ashldi3	/home/sqa/build-ast300/build-toolchain/build-2017-03-15/source-packages/gcc-4.9.3-bsp-v4_1_0-branch/libgcc/libgcc2.c:431
+00001fe0 A __data_lmastart
+00002010 A EILM_SIZE
+00200000 D EDLM_BEGIN
+00200000 D __data_start
+00200000 D led	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../utils.c:8
+00200010 D stderr
+00200014 D stdout
+00200018 D stdin
+0020001c D _impure_ptr
+00200020 D _NDS32_REENT___sglue
+00200030 S __bss_start
+00200030 S _edata
+00200030 S isize	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:113
+00200034 S iway	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:113
+00200038 S iset	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:113
+0020003c S dway	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:114
+00200040 S dsize	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:114
+00200044 S dset	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../init-default.c:114
+00200048 S errno
+00200050 B tm1StartCount	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../utils.c:175
+00200054 B tm1StopCount	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../utils.c:175
+00200058 B tm1UsedCount	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../utils.c:175
+0020005c b alloc_pos.2942
+00200060 b mem_pool.2941
+00200128 b init.2956
+0020012c b val.2957
+00200130 b init.2964
+00200134 b val.2965
+00200138 b init.2969
+0020013c B _NDS32_REENT__errno
+00200140 b impure_data
+00200144 B __malloc_sbrk_start
+00200148 B __malloc_free_list
+0020014c b output_idx
+00200150 b output_buff
+00200154 B _NDS32_REENT___cleanup
+00200158 B _NDS32_REENT___sdidinit
+0020015c b heap_end
+00200160 B recv	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../main.c:24
+00200190 W _FP_BASE_
+00200190 W _SDA_BASE_
+002001a4 B send	/cygdrive/c/Users/Heloise/AndeSight3/dma_i2c/Debug/../main.c:23
+002001e8 B _NDS32_REENT_(short, float)
+00200320 B __data_end
+00200320 B _end
+00280000 A _stack

@@ -1,0 +1,2 @@
+   text (code + rodata)	   data	    bss	    dec	    hex	filename
+   8152 (7796 +    356)	     48	    752	   8952	   22f8	dma_i2c.adx
